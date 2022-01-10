@@ -4,3 +4,8 @@
 __pycache__
 build
 demo/c/cmake-build-debug
+
+# SPM
+.build
+Package.resolved
+
